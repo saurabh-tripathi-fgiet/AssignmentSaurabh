@@ -1,6 +1,9 @@
 # AssignmentSaurabh
 
-- Please import this project in your C drive.
+- This is an assignment task.
+- I have used selenium with java in this project. 
+- I have used data driven framework in this project. I am fetching data from CSV file.
+- Please import this project in your local disk C drive.
 - I have installed chromedriver.exe in my laptop.
 - Before run, make sure , You should also have chromedriver in your system.
 
