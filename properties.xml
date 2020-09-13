@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panel1>
+<letsBeginxpath>//button[@class='btn-primary form-control']</letsBeginxpath>
+<emailXpath>//input[@name='email']</emailXpath>
+<passwordXpath>//input[@name='password1']</passwordXpath>
+<createProfileforDropdownXpath>//div[@class='Dropdown-placeholder']</createProfileforDropdownXpath>
+<brotherItem>//div[contains(text(),'Brother')]</brotherItem>
+<nextXpath>//button[@class='btn btn-primary btn-md btn-block']</nextXpath>
+<mothertongue>//div[@class='Dropdown-control mother_tongue_selector Dropdown-disabled']</mothertongue>
+</panel1>
